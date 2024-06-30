@@ -1,1 +1,3 @@
 # CS300_Data_Structures-and-Algorithms
+
+  During this course we were tasked with researching different data structures for a course planner for ABCU.  For this we researched different data structures and algorithms to find the most efficient way to get this done.  We developed pseudocode to give us a better understanding of how the code would be built e the project without committing to a certain language.  During this I ran into some issues, for this I found some YouTube channels, websites such as Geeks for Geeks, W3, and Baeldung. I also used a few books from the school library if I got stuck.  When it came time code the I used the pseudocode as a  starting point and in C++ and then made changes as to make the code functional.  
